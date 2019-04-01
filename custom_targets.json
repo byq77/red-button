@@ -1,0 +1,27 @@
+{
+    "RB_BOARD": {
+        "inherits": ["MCU_NRF51_32K_UNIFIED"],
+        "device_has": [
+            "USTICKER",
+            "LPTICKER",
+            "ANALOGIN",
+            "I2C",
+            "I2C_ASYNCH",
+            "INTERRUPTIN",
+            "PORTIN",
+            "PORTINOUT",
+            "PORTOUT",
+            "PWMOUT",
+            "SERIAL",
+            "SERIAL_ASYNCH",
+            "SERIAL_FC",
+            "SLEEP",
+            "SPI",
+            "SPI_ASYNCH",
+            "SPISLAVE"
+        ],
+        "release_versions": ["5"],
+        "device_name": "nRF51822_xxAA",
+        "target.console-uart-flow-control": "RTSCTS"
+        }
+}

@@ -1,0 +1,9 @@
+BUILD/RELEASE
+BUILD/DEBUG
+BUILD/DEVELOP
+BUILD/mbed-os-release
+BUILD/mbed-os-debug
+mbed_settings.py
+mbed_settings.pyc
+.vscode/.cortex*
+.vscode/ipch

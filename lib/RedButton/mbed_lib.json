@@ -1,0 +1,12 @@
+{
+    "name": "red-button",
+    "config": {
+        "debug-logs":
+        {
+            "help": "Bluetooth debug information",
+            "macro_name": "DEBUG_BLUETOOTH",
+            "value": 0
+        }
+    }
+}
+

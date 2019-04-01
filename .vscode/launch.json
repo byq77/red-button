@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "jlink",
+            "cwd": "${workspaceRoot}",
+            "executable": "./BUILD/DEBUG/firmware_application.elf",
+            "name": "Debug (nRF52)",
+            "device": "nRF51822_xxAA",
+            "interface": "swd",
+            "serialNumber": null,
+        }
+    ]
+}
