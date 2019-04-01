@@ -80,7 +80,7 @@ https://exploreembedded.com/wiki/Programming_nRF51822_with_STlink_on_Windows
 <p align="center">
 <img src=".img/schematic.png" width="600px" alt="schematic" title="schematic" />
 </p>
-<p align="center">Schematic</p>
+<p align="center">Schematic - add 330R resistor in series with LED! (omitted in picture))</p>
 
 <p align="center">
 <img src=".img/2031.jpg" width="600px" alt="red-button" title="red-button" />
